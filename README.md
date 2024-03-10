@@ -15,6 +15,6 @@ Choose to cancel for employee data to be displayed on the page sorted alphabetic
 
 <img src="https://github.com/Rualexandra/Employee-Payroll-Tracker/blob/main/Assets/Screenshot%202024-03-10%20at%2012.19.10%20PM.png" width="50%" height="50%">
 
-# Link
+# Link:
 
-<Url src=<https://rualexandra.github.io/Employee-Payroll-Tracker/>
+<https://rualexandra.github.io/Employee-Payroll-Tracker/>
